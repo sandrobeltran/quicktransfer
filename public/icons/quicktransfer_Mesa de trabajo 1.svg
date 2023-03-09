@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="File" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <path d="m219.56,124.5l336.18.47v201.52c0,11.31,9.2,20.51,20.51,20.51h215.81l1.44,515.43c0,7.21-5.86,13.07-13.07,13.07H210.76c-2.35,0-4.26-1.91-4.26-4.26V137.57c0-7.2,5.86-13.06,13.06-13.07m.01-16c-16.06,0-29.07,13.02-29.07,29.07v733.67c0,11.19,9.07,20.26,20.26,20.26h569.67c16.06,0,29.07-13.02,29.07-29.07l-1.49-532.07c0-3.42-1.42-6.69-3.91-9.04l-220.01-207.52c-3.27-3.08-7.59-4.8-12.08-4.81l-352.44-.49h0Zm356.68,222.5c-2.49,0-4.51-2.02-4.51-4.51V125.5l120.26,107.5,101.5,98h-217.25Z"/>
+  <line x1="238" y1="171" x2="533" y2="171" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="238" y1="211" x2="533" y2="211" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="238" y1="251" x2="533" y2="251" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="238" y1="291" x2="533" y2="291" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="238" y1="420" x2="764" y2="420" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="237" y1="462" x2="763" y2="462" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="237" y1="528" x2="763" y2="528" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="236" y1="570" x2="762" y2="570" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="236" y1="636" x2="762" y2="636" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="235" y1="678" x2="761" y2="678" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="235" y1="744" x2="761" y2="744" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+  <line x1="234" y1="786" x2="760" y2="786" style="fill: none; stroke: #000; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 16px;"/>
+</svg>
